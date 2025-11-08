@@ -1,5 +1,5 @@
 {
-  "name": "codex-monorepo",
+  "name": "codex-mono",
   "private": true,
   "description": "Tools for repo-wide maintenance.",
   "scripts": {
